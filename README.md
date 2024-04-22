@@ -1,4 +1,4 @@
-##Задание 1
+## Задание 1
 
 public class JvmComprehension { // -1 ClassLoader загружает класс JvmComprehension, методы этого класса и помещает информацию в MetaSpase
 
@@ -21,7 +21,7 @@ private static void printAll(Object o, int i, Integer ii) {
 }
 
 
-##Задание 2 
+## Задание 2 
 <img width="1710" alt="Screenshot 2024-04-22 at 21 17 55" src="https://github.com/Belosnejechka/HomeWork1.10/assets/153391631/8aeeb833-b0b7-4261-8e79-2c7c45f0ee2c">
 На скриншоте отчетливо видно как подгружаются классы и наполняется 'MetaSpace'
 <img width="1710" alt="Screenshot 2024-04-22 at 21 18 05" src="https://github.com/Belosnejechka/HomeWork1.10/assets/153391631/4c46186e-977f-474a-a2e4-31ae72d989b5">
